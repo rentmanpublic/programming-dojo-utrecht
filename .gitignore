@@ -1,2 +1,15 @@
 *.iml
 .idea
+.DS_Store
+
+# JS
+node_modules/
+
+# Haskell
+dist-newstyle/
+dist/
+.stack-work/
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
