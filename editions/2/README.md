@@ -1,6 +1,9 @@
 # Functional Programming Videogame matchmaking kata
 Partly taken from https://github.com/davidwhitney/CodeDojos
 
+This kata is available in three languages, each with its own README and starter code:
+[Haskell](haskell/README.md) (the original, described below), [JavaScript](js/README.md) and [PHP](php/README.md).
+
 
 ## Useful sources
 - [cheatsheet.hs](cheatsheet.hs)
