@@ -67,7 +67,7 @@ executable Dojo
     -- other-extensions:
 
     -- Other library packages from which modules are imported.
-    build-depends:    base ^>=4.20.0.0, random, QuickCheck, pretty-simple, hspec
+    build-depends:    base, random, QuickCheck, pretty-simple, hspec
 
     -- Directories containing source files.
     hs-source-dirs:   MatchMaker
